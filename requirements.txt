@@ -1,0 +1,7 @@
+numpy==1.23.5
+pandas==2.2.1
+yfinance
+keras==2.12 
+tensorflow==2.12
+streamlit
+matplotlib
